@@ -5,6 +5,7 @@
 // @author       Konano
 // @match        https://jlpt.neea.edu.cn/index.do*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Konano/jlpt-script/main/jlpt.js
 // ==/UserScript==
 
 function script() {
