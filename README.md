@@ -2,7 +2,7 @@
 
 一个辅助 JLPT 考场捡漏的小工具。
 
-Tampermonkey 安装：https://greasyfork.org/zh-CN/scripts/432278-jlpt-%E6%8D%A1%E6%BC%8F
+[Tampermonkey 安装](https://greasyfork.org/zh-CN/scripts/432278-jlpt-%E6%8D%A1%E6%BC%8F)
 
 ## 使用说明
 
